@@ -1,0 +1,13 @@
+Package: imputer
+Type: Package
+Title: A package to impute missing values
+Version: 0.1.0
+Author: Hidayati Husna
+Maintainer: Hidayati Husna <hidayatihusna04@yahoo.com>
+Description: Impute missing values with median.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    gmodels
+RoxygenNote: 7.3.2
